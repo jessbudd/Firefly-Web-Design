@@ -10,7 +10,9 @@
 
     <div class="container">
       {% include "header.njk" %}
+      <main>
       {{ content | safe }}
+      </main>
       {% include "footer.njk" %}
     </div>
 
