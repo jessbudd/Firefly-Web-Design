@@ -11,4 +11,4 @@ layout: layouts/base.njk
 
 <p class="subtitle">Thanks for your interest in working with us.</p>
 
-Unfortunately, we are not taking on new web development projects at this time. If you'd like to discuss accessibility consulting, you can get in touch by emailing hello&nbsp;{at}&nbsp;fireflywebdesign.co.
+We are not taking on new projects at this time. If you still need to get in touch, please email hello&nbsp;{at}&nbsp;fireflywebdesign.co.
